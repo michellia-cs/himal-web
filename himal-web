@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage | Himalogin</title>
+    <style>
+    html {
+    height: 100%; 
+    background-image: url(./back-himal.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+@media(max-width: 800px){
+	main{
+		flex-wrap: wrap;
+	}
+	#article{
+		width: 100%;
+	}
+	#aside{
+		width: 100%;
+	}
+}
+.head-himal{
+    font-family: Arial;
+    font-size: 72px;
+    color: white
+}
+.p1{
+position: absolute;
+width: 438px;
+left: 8.89%;
+top: 30%;
+font-family: 'Arial';
+font-style: normal;
+font-size: 14px;
+line-height: 25px;
+text-align: justify;
+text-transform: none;
+color: #FFFFFF;
+}
+	nav li{
+	margin: 0;
+	display: inline;
+    font-family: Arial;
+    font-size: 18px;
+    margin-right: 15px;
+	}
+	nav li a{
+	text-decoration: none;
+	color: white;
+	}
+	nav li a:hover{
+	color: #gray;
+	}
+    </style>
+<br>
+<nav>
+    <ul class="visual-navigation">
+        <li><a href="About Us.html">Home</a></li>
+        <li><a href="Catalogue.html">Catalogue</a></li>
+        <li><a href="registration.html">Register</a></li>
+    </ul>
+</nav>
+</head>
+<body>
+    <h1 class="head-himal">Himalogin</h1>
+    <p1 class="p1">Established on September 1983, Himpunan 
+        Mahasiswa Teknologi Industri Pertanian is a place for
+        agro-industrial students to unite their goals of
+        broadening scientific insight and developing student 
+        soft skills in organizing and knowing current 
+        developments in agro-industry. </p1>
+</body>
+</html>
