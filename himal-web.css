@@ -14,7 +14,7 @@ html {
 .logo-himal{
     position: absolute;
     width: 75px;
-    left: 1094px;
+    left: 1150px;
     top: 78px;
 }
 nav{
@@ -64,26 +64,25 @@ h1{
 	margin: 20px 0px 20px;
 	font-size: 75px;
 }
-button{
-	color: white;
-	text-decoration: none;
-	border: 2px solid transparent;
-	font-weight: bold;
-	padding: 13px 30px;
-	border-radius: 30px;
-	transition: .4s; 
-}
-button:hover{
-	background-color: transparent;
-	border: 2px solid #f9004d;
-	cursor: pointer;
-}
 .pra p{
 	color: white;
 	font-size: 16px;
 	line-height: 27px;
-    width: 675px;
+    width: 700px;
     padding: 0 100px;
-    margin-left: 5px;
+    margin-left: 19px;
     text-align: justify;
+}
+.join-us{
+	background-image: url(img/join-us-himal.png);
+	position: absolute;
+	width: 482px;
+	height: 101px;
+	left: 690px;
+	top: 187px;
+	transition: transform .4s; 
+	box-shadow: 0px 0px 15px 5px #ffffffaa;
+}
+.join-us:hover{
+	transform: scale(1.2);
 }
