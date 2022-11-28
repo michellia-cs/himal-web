@@ -15,15 +15,13 @@
             <li><a href="#">Contact Us</a></li>
         </ul>
         <a href="#" class="btn">Events</a>
+        <a href="https://ipb.link/pendaftaran-calonstaff-himalogin"><i class="join-us"></i></a>
     </nav>
     <div class="pra">
-    <p>Established on September 1983, Himpunan 
-        Mahasiswa Teknologi Industri Pertanian is a place for
-        agro-industrial students to unite their goals of
-        broadening scientific insight and developing student 
-        soft skills in organizing and knowing current 
-        developments in agro-industry. </p>
-    </article>
+    <p>Established on September 1983, Himpunan Mahasiswa Teknologi Industri Pertanian is a 
+        non-profit student association with the principle of kinship. Himalogin is a place 
+        for agro-industrial students to unite their  goals of broadening scientific insight 
+        and skills along with the current developments in agro-industry. </p>
     </div>
 </body>
 </html>
